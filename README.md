@@ -1,0 +1,4 @@
+- 👋 Hi! My name is İsmet Bilgiç
+- 👀 I’m pursuing a Software Engineering degree at the University of Ottawa.
+- 🌱 I am currently learning Python and Java...
+- 📫 How to reach me : ismetbilgicc@gmail.com 
