@@ -1,4 +1,4 @@
 - 👋 Hi! My name is İsmet Bilgiç
 - 👀 I’m pursuing a Software Engineering degree at the University of Ottawa.
-- 🌱 I am currently learning Python, HTML, JavaScript, CSS and Java...
+- 🌱 I am comfortable using Python, HTML, CSS and C++.
 - 📫 How to reach me : ismetbilgicc@gmail.com 
